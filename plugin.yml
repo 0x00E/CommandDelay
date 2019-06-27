@@ -1,0 +1,5 @@
+name: CommandDelay
+main: qianniancc.CommandDelay.Main
+version: 1.0
+commands:
+  cdreload:

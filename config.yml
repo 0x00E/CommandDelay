@@ -1,0 +1,12 @@
+cdlist:
+    fly: 1
+    plot home: 5
+pcdlist:
+    plot: 3
+all: 0
+exempt: true
+#是否允许拥有cd.exempt权限的人免除指令延迟
+#---------------------------------------------
+#指令:
+#/cd reload 重置插件 权限:cd.reload
+#免除延迟 权限:cd.exempt
